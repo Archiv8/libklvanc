@@ -1,7 +1,9 @@
+#!/bin/bash
+
 # Maintainer : Daniel Bermond < gmail-com: danielbermond >
 
-pkgname=libklvanc-git
-pkgver=r434.d474cfc
+pkgname=libklvanc
+pkgver=r522.74f01b7
 pkgrel=1
 pkgdesc='Library which can be used for parsing/generation of Vertical Ancillary Data (VANC) (git version)'
 arch=('x86_64')
